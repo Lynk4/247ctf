@@ -35,7 +35,7 @@ flag function
 ---
 
 
-By analyzing the binary we can see the flag function was never called..........
+By analyzing the binary we can see that the flag function was never called..........
 
 
 So our payload will look like this:
