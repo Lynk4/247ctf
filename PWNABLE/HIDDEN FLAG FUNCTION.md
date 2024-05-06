@@ -1,5 +1,8 @@
 # HIDDEN FLAG FUNCTION
 
+Can you control this applications flow to gain access to the hidden flag function?
+
+
 Basic file check:
 
 ```bash
