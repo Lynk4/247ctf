@@ -81,6 +81,10 @@ File: the_more_the_merrier                                                      
 
 And we find the flag ..buried in it.................
 
-Flag```247CTF{6df215eb3cc73407267031a15b0ab36c}```
+Flag:
+
+```
+247CTF{6df215eb3cc73407267031a15b0ab36c}
+```
 
 ---
