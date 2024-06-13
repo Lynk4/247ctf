@@ -125,4 +125,10 @@ You found the flag!
 
 ```
 
+---
+Its parameters were exposed by the strcmp. Therefore, in order to make the comparison valid, we must utilize the acquired string (142c85ccfb2ae19d8d8c224c4e403dce):
+
+---
+
+
 
